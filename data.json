@@ -4,5 +4,22 @@
 		"image":"tt image.jpg",
 		"phone":"9876543210",
 		"email":"thanmayee1199@gmail.com"
-	}
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college",
+			"per":"76%"
+		},
+		{
+			"course":"Intermediate(MPC)",
+			"college":"Sreenidhi Junior College",
+			"per":"96%"
+		},
+		{
+			"course":"SSC",
+			"college":"st.Francis EM High School",
+			"per":"97%"
+        }
+	]	
 }
