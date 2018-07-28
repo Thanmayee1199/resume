@@ -1,14 +1,14 @@
 {
 	"details":{
-		"name":"thanu",
-		"image":"tt image.jpg",
+		"name":"Thanmayee",
+		"image":"image2.jpg",
 		"phone":"9876543210",
 		"email":"thanmayee1199@gmail.com"
 	},
 	"education":[
 		{
 			"course":"B.Tech(CSE)",
-			"college":"MIC college",
+			"college":"MIC College",
 			"per":"76%"
 		},
 		{
@@ -18,8 +18,25 @@
 		},
 		{
 			"course":"SSC",
-			"college":"st.Francis EM High School",
+			"college":"St.Francis High School",
 			"per":"97%"
         }
-	]	
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"output":[
+				"C","C++","Java","Python"
+            ]
+		},
+		{
+			"title":"Operating Systems",
+			"output":[
+				"Windows","Linux","MAC"
+			]
+		}
+	],
+	"career":{
+		"text":"To associate with organisation and utilise my technical skills with my friends and maintain good performance and team work in workshop."
+	}	
 }
